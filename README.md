@@ -9,7 +9,7 @@ This repository demonstrates the process of data preprocessing and the applicati
 - `data.csv` - Contains the raw and preprocessed data files.
 - `notebooks/` - Jupyter notebooks detailing the data preprocessing and model development steps.
 - `models/` - Trained machine learning models and model evaluation results.(not uploaded to github due to file size constraints)
-- `LICENSE` - Project license file.
+
 
 
 ## Data Preprocessing
