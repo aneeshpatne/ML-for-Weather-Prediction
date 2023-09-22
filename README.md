@@ -32,7 +32,7 @@ This repository demonstrates the process of data preprocessing and the applicati
    - Hyperparameter tuning and model optimization are explored.
    - Evaluation metrics and feature importance are analyzed.
 ![Training](img/rando.png)
-![Accuracy](img/rando_accuracy.png.png)
+![Accuracy](img/rando_accuracy.png)
 
 
 
