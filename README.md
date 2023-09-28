@@ -1,6 +1,5 @@
 # Machine Learning Predictions with Data Preprocessing
-![Predictions](img/humidity_actual_vs_predicted.png)
-![Predictions](img/temperature_actual_vs_predicted.png)
+
 ## Overview
 
 This repository demonstrates the process of data preprocessing and the application of machine learning algorithms to make predictions based on collected environmental data. The data, originally logged by an ESP8266 microcontroller, undergoes cleaning, feature engineering, and analysis before being used in two common regression algorithms: Linear Regression and Random Forest.
@@ -19,10 +18,13 @@ This repository demonstrates the process of data preprocessing and the applicati
 - Missing values are handled using appropriate techniques.
 - Feature engineering is performed to extract relevant features for modeling.
 - Data is split into training and testing sets for model evaluation.
-![Data Preprocessing](img/output.png)
+
+![Data Preprocessing](img/cleandata1.jpg)
 
 ## Machine Learning Models
-
+![Predictions](img/humidity_actual_vs_predicted.png)
+![Predictions](img/temperature_actual_vs_predicted.png)
+![Predictions](img/cleandata.jpg)
 1. **Linear Regression:**
    - Linear regression models are applied to the preprocessed data.
    - As assumed the accuracy was pretty abysmal but was a great benchmark
